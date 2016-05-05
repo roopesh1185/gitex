@@ -15,6 +15,7 @@
 		87A903391CDA423D00ACE601 /* MyFirstAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87A903381CDA423D00ACE601 /* MyFirstAppTests.swift */; };
 		87A903441CDA423D00ACE601 /* MyFirstAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87A903431CDA423D00ACE601 /* MyFirstAppUITests.swift */; };
 		87A903521CDB076000ACE601 /* TestTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87A903511CDB076000ACE601 /* TestTableViewController.swift */; };
+		87A903541CDB0DF800ACE601 /* TestCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87A903531CDB0DF800ACE601 /* TestCollectionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		87A903431CDA423D00ACE601 /* MyFirstAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFirstAppUITests.swift; sourceTree = "<group>"; };
 		87A903451CDA423D00ACE601 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		87A903511CDB076000ACE601 /* TestTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestTableViewController.swift; sourceTree = "<group>"; };
+		87A903531CDB0DF800ACE601 /* TestCollectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestCollectionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				87A9032C1CDA423D00ACE601 /* LaunchScreen.storyboard */,
 				87A9032F1CDA423D00ACE601 /* Info.plist */,
 				87A903511CDB076000ACE601 /* TestTableViewController.swift */,
+				87A903531CDB0DF800ACE601 /* TestCollectionViewController.swift */,
 			);
 			path = MyFirstApp;
 			sourceTree = "<group>";
@@ -261,7 +264,6 @@
 			files = (
 				87A903261CDA423D00ACE601 /* ViewController.swift in Sources */,
 				87A903241CDA423D00ACE601 /* AppDelegate.swift in Sources */,
-				87A903521CDB076000ACE601 /* TestTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
